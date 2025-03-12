@@ -9,7 +9,7 @@ public class Pilha {
     public Pilha(int capacidade) {
         this.capacidade = capacidade;
         pilha = new char[capacidade];
-        topo = -1;  // PDF2.Pilha vazia
+        topo = -1;
     }
 
 
